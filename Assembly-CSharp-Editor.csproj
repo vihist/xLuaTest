@@ -67,6 +67,7 @@
      <None Include="Assets\XLua\Resources\perf\profiler.lua.txt" />
      <None Include="Assets\XLua\Src\Editor\Template\LuaDelegateWrap.tpl.txt" />
      <None Include="Assets\Script\Resources\event.lua.txt" />
+     <None Include="Assets\Script\Resources\event2.lua.txt" />
      <None Include="Assets\XLua\Resources\perf\memory.lua.txt" />
      <None Include="Assets\XLua\Src\Editor\Template\LuaRegisterGCM.tpl.txt" />
      <None Include="Assets\XLua\Src\Editor\Template\LuaRegister.tpl.txt" />
